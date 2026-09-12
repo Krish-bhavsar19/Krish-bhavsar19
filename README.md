@@ -66,8 +66,8 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **BlogSphere** | AI-powered blogging platform with authentication, multimedia handling, social features, image analysis and content recommendations | Node.js, Express.js, MongoDB, EJS, Bootstrap, Gemini API | [Demo](YOUR_DEMO_URL) · [Code](YOUR_GITHUB_URL) |
-| **Group Expense Management Platform** | Secure expense-sharing platform with role-based access, invite system, transaction tracking, voice-based expense entry and receipt uploads | React, Node.js, Express.js, MySQL, JWT, OAuth, Nodemailer | [Code](YOUR_GITHUB_URL) |
+| **BlogSphere** | AI-powered blogging platform with authentication, multimedia handling, social features, image analysis and content recommendations | Node.js, Express.js, MongoDB, EJS, Bootstrap, Gemini API | [Demo](https://blogsphere-3e6g.onrender.com/) · [Code](https://github.com/Krish-bhavsar19/blogsphere) |
+| **Group Expense Management Platform** | Secure expense-sharing platform with role-based access, invite system, transaction tracking, voice-based expense entry and receipt uploads | React, Node.js, Express.js, MySQL, JWT, OAuth, Nodemailer | [Code](https://github.com/Krish-bhavsar19/Group-Expense-Management) |
 
 ### 📝 BlogSphere
 
